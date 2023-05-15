@@ -4,18 +4,17 @@ XI Server Manager will dock all the xi server windows and pydarkstar broker that
 
 to setup XI Server Manager open the settings.ini and change the folder paths to the proper folder.
 
-set the other settings in the to desired settings and start the XI Server Manager.
+set the other settings in the settings.ini to desired settings save and close then start the XI Server Manager.exe
 
+the app was created using autohotkey v2 and have included precompiled exes locatd in the bin folder and the source code is located in scource folder.
 
-the app was created using autohotkey v2 I have precompiled exes and also included the source code
-
-If you use the precompiled exe's in the bin folder you do not need to install autohotkeyv2
-
+If you use the precompiled exe's in the bin folder you do not need to install autohotkeyv2 and ahktoexe
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 to use XI Server Manager 
 
 1. xi server and pydarkstar must be setup first
 
-3. open settings.ini in the XI server manager folder change the settings and set paths to xi server exe's and pydarkstar scripts
+3. open settings.ini in the XI server manager folder change the settings and set paths to xi server exe's folder and pydarkstar\bin scripts folder
 
 4. launch XI Server Manager.exe.
 
