@@ -10,7 +10,8 @@ the app was created using autohotkey v2 and have included precompiled exes locat
 
 If you use the precompiled exe's in the bin folder you do not need to install autohotkeyv2 and ahktoexe
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-to use XI Server Manager 
+XI Server Manager Setup
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. xi server and pydarkstar must be setup first
 
