@@ -1,4 +1,4 @@
-The Precompiled exe in the bin folder can be found in the release zip                    ---------------->>>>
+The exe's and the bin folder are included in the release zip click release to download ---->
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 # xi_server_manager
 
