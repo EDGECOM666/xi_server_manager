@@ -1,4 +1,4 @@
-The exe's and the bin folder are included in the release zip click release to download ---->
+The exe's and the bin folder are included in release click releases to download ---->
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 # xi_server_manager
 
