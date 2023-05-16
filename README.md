@@ -1,3 +1,5 @@
+The Precompiled exe in the bin folder can be found in the release zip                    ---------------->>>>
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 # xi_server_manager
 
 XI Server Manager will dock all the xi server windows and pydarkstar broker that were started with this manager into one GUI for easier server management.
