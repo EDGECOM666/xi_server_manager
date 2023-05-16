@@ -1,4 +1,4 @@
-The click releases to download compiled exe's ---->
+Click releases to download compiled exe's ---->
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 # xi_server_manager
 
