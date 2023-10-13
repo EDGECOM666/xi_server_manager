@@ -756,6 +756,14 @@ Update_Server_Array_Pids_Hwnd(Server)
 				xi_hwnd.InsertAt(2, WinGetID(this_pid))
 				break
 			}
+
+			if (Server = 4 and InStr(pid_title, "connect-server") > 0){
+				xi_pids.RemoveAt(4)
+				xi_hwnd.RemoveAt(4)
+				xi_pids.InsertAt(4, WinGetPID(this_pid))
+				xi_hwnd.InsertAt(4, WinGetID(this_pid))
+				break
+			}
 			
 		}
 		
